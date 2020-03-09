@@ -1,0 +1,9 @@
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Daniel", "Lizardo", "wdaniel.lizardo1@gmail.com", "2020-03-08");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Rodo", "Perez", "rodo@hotmail.com", "2020-03-08");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Mark", "Lizardo", "marco@mail.com", "2020-03-08");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Danielu", "Lizardou", "wdaniel.lizardo1@gmailu.com", "2020-03-09");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Rodou", "Perezu", "rodo@hotmailu.com", "2020-03-09");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Marku", "Lizardou", "marco@mailu.com", "2020-03-09");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Danieli", "Lizardoi", "wdaniel.lizardo1@gmaili.com", "2020-03-10");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Rodoi", "Perezi", "rodo@hotmaili.com", "2020-03-10");
+INSERT INTO client (name, last_name, email, create_at) VALUES ("Marki", "Lizardoi", "marco@maili.com", "2020-03-10");
